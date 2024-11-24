@@ -1,7 +1,7 @@
 **Cloning the Repository**
 
 ```bash
-git clone URl
+git clone https://github.com/bhavya428/Produt_Listing_Page.git
 cd product-listing
 ```
 
